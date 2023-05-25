@@ -75,6 +75,7 @@ table{
     border:solid black 2px;
 .flex{
     display:flex;
+    flex-wrap:23%;
     gap:1rem;
 }
 .card{
