@@ -74,13 +74,7 @@ table{
 #value{
     background-color: pink;
 }
-#northern{
-    width: 100%;
-    height: 500px;
-    background-color: antiquewhite;
-    padding: 0 10px;
-    border-bottom: 2px solid black;
-}
+
 .flex{
     display:flex;
     gap:1rem;
@@ -91,7 +85,13 @@ table{
 .text{
     border:solid blue 2px;
 }
-
+.northern{
+    width: 100%;
+    height: 500px;
+    background-color: antiquewhite;
+    padding: 0 10px;
+    border-bottom: 2px solid black;
+}
     
 #three{
     border-bottom: solid black 2px ;height: 50px;
