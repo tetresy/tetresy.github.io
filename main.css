@@ -13,11 +13,6 @@
 h2{
     text-align: center;
 }
- #iceland1 ,#text{
-    background-color: pink;
-    text-align: right;font-weight: 300;font-family: 'Courier New', Courier, monospace;
-    font-size: small;font-style: normal;
-}
 .events{
     text-align: left;
     margin: left 5px;
