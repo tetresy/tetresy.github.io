@@ -81,16 +81,18 @@ table{
     padding: 0 10px;
     border-bottom: 2px solid black;
 }
-div img{
-    border: solid black 2px;width: 30%;
-    float: left;overflow-wrap:;
-   
+.flex{
+    display:flex;
+    gap:1rem;
 }
-div text{
-    background-color:lightslategray ;border: 2px solid black;
-text-align: justify center;
-float: left;
+.card{
+    border:solid black 2px;
 }
+.text{
+    border:solid blue 2px;
+}
+
+    
 #three{
     border-bottom: solid black 2px ;height: 50px;
     padding-bottom: 5px;
