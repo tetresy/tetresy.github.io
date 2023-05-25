@@ -1,0 +1,97 @@
+
+.navbar{
+    width: 100%;
+    height: 200px;
+    padding: 0px 5px;
+    background-color: white;border: 1px solid black;
+
+}
+.navbar .iceland img{
+    float: left;
+    position: relative;
+}
+h2{
+    text-align: center;
+}
+ #iceland1 ,#text{
+    background-color: pink;
+    text-align: right;font-weight: 300;font-family: 'Courier New', Courier, monospace;
+    font-size: small;font-style: normal;
+}
+.events{
+    text-align: left;
+    margin: left 5px;
+    
+}
+.journal{
+    text-align: left;
+}
+.journal1 {
+    text-justify: auto;
+    font-size: smaller;
+    font-size: 8px;
+    
+}
+.journal1:hover{
+    text-transform: uppercase;
+    background-position:2cm;
+    background-color: rgb(219, 249, 48);
+    box-sizing: border-box;
+}
+.navigation-bar{
+   text-align: center;
+}
+.my_links{
+
+}
+ul{
+    text-align: center;list-style: none;
+}
+li{
+    float: left;
+}
+.my_links li a{
+    width: 150px;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    text-align: center;
+    text-decoration: none;
+}
+.my_links :hover{
+    background-color: rgb(90, 252, 58);
+    text-transform: uppercase;
+}
+p{
+    text-justify: newspaper;
+}
+table{
+    border: 3px solid black;
+}
+#theader, #cost{
+    background-color: aquamarine;
+}
+#value{
+    background-color: pink;
+}
+#northern{
+    width: 100%;
+    height: 500px;
+    background-color: antiquewhite;
+    padding: 0 10px;
+    border-bottom: 2px solid black;
+}
+div img{
+    border: solid black 2px;width: 30%;
+    float: left;overflow-wrap:;
+   
+}
+div text{
+    background-color:lightslategray ;border: 2px solid black;
+text-align: justify center;
+float: left;
+}
+#three{
+    border-bottom: solid black 2px ;height: 50px;
+    padding-bottom: 5px;
+}
