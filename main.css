@@ -69,7 +69,10 @@ table{
 #value{
     background-color: pink;
 }
-
+.container{
+    background-color:pink;
+    height:500 px;width:90%;
+    border:solid black 2px;
 .flex{
     display:flex;
     gap:1rem;
