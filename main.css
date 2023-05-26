@@ -82,12 +82,27 @@ table{
     border:solid black 2px;
 }
 .text{
+    display:box;
+    width:400px;
+    height:400px;
     border:solid blue 2px;
+    background-color:light-gray;
+    color:white;
+    align:center:
 }
 .northern{
     background-color: antiquewhite;
     padding: 0 10px;
     border-bottom: 2px solid black;
+    float:left:
+    position:relative;
+}
+.northern1{
+    background-color: antiquewhite;
+    padding: 0 10px;
+    border-bottom: 2px solid black;
+    float:right;
+    position:absolute;
 }
     
 #three{
