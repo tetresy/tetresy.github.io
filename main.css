@@ -2,7 +2,12 @@
     margin :0;
     padding: 0;
     box-sizing: border-box;
-}.navbar{
+}
+body{
+    margin: 0;
+    padding :0;
+}
+.navbar{
     width: 100%;
     height: 50px;
     content: " ";
@@ -21,8 +26,9 @@
     border: solid black;
     width:80%;
     height: 350px;
-    margin: 0;
+    margin: 5px;
     padding: 5px;
+    text-size-adjust: auto;
     content :" ";
     display: block;
     clear: both;
@@ -42,34 +48,5 @@
 
 .iceland1 img{
     float:right;
-    size-adjust: 100px;
-}
-}
-#value{
-    background-color: pink;
-}
-#northern{
-    width: 100%;
-    height: 500px;
-    background-color: antiquewhite;
-    padding: 0 10px;
-    border-bottom: 2px solid black;
-}
-div img{
-    border: solid black 2px;width: 30%;
-    float: left;overflow-wrap:;
-   
-}
-div text{
-    background-color:lightslategray ;border: 2px solid black;
-text-align: justify center;
-float: left;
-font-size: small;
-}
-#three{
-    border-bottom: solid black 2px ;height: 50px;
-    padding-bottom: 5px;
-}
-flex{
-    float: left;
+    size-adjust: auto;
 }
